@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1972
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "SUPER_MARKET", "SUPER_MARKET\SUPER_MARKET.dtproj", "{7648C493-F255-4B2B-BE80-E2B7C19B4011}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7648C493-F255-4B2B-BE80-E2B7C19B4011}.Development|Default.ActiveCfg = Development
+		{7648C493-F255-4B2B-BE80-E2B7C19B4011}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39432C30-97D0-4C1A-92E2-4CA5F5CC20A8}
+	EndGlobalSection
+EndGlobal
